@@ -13,7 +13,7 @@
 <br>
 
 <h2>About Project: </h2>
-<p>This Project Is For Anyone To Showcase A Game They Created On Godot With A Folder That Contains All The Media And 'project.godot' File. You May Add A Project Even If It Is Incomplete, There Are People To Help Complete It. The EXE File Will Be Added To The Games Sections And The Folder Containing The Media And 'project.godot' File Will Be Added As A Zip To The Projects Folder</p>
+<p>This Project Is For Anyone To Showcase A Game They Created On Godot With A Folder That Contains All The Media And 'project.godot' File. You May Add A Project Even If It Is Incomplete, There Are People To Help Complete It. The Zip File Of 'EXE File' And 'Pck File' Will Be Added To The Games Sections And The Folder Containing The Media And 'project.godot' File Will Be Added As A Zip To The Projects Folder</p>
 
 <br>
 <br>
